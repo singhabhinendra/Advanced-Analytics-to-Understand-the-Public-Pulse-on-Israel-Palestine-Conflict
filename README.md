@@ -1,0 +1,2 @@
+# Advanced-Analytics-to-Understand-the-Public-Pulse-on-Israel-Palestine-Conflict
+In this poject ,I did Sentiment analysis using NLTK library which comes under Natural Language Processing (NLM) of Python .That's the good problem statement and it's data is good .In this,I covers all the possible approaches for the final analysis like Data Cleaning,Preprocessing,Sentiment Analysis ,Data Visualizaion.
